@@ -1,0 +1,30 @@
+baseURL = 'http://phnyo.github.io/nikki.io'
+languageCode = 'ja'
+title = 'DobuSarai / ドブサライ'
+theme = 'PaperMod'
+publishDir = 'docs/'
+
+[params]
+author = 'sabanium'
+  [params.homeInfoParams]
+  Title = 'Dobusarai / ドブサライ'
+  Content = "You won't find anything here, go home / こんな場所に何しに来たんだ 家に帰れ"
+  [[params.socialIcons]]
+  name = 'twitter'
+  url = 'https://twitter.com/dobusarai_tarou'
+  
+[menu]
+[[menu.main]]
+  identifier = 'About' 
+  name = 'About'
+  url = '/about/'
+
+[[menu.main]]
+  identifier = 'Tags' 
+  name = 'Tags'
+  url = '/tags/'
+
+[[menu.main]]
+  identifier = 'Archives' 
+  name = 'Archive'
+  url = '/archives/'
