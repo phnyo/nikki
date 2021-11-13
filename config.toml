@@ -3,6 +3,7 @@ languageCode = 'ja'
 title = 'DobuSarai / ドブサライ'
 theme = 'PaperMod'
 publishDir = 'docs/'
+canonifyurls　= true
 
 [params]
 author = 'sabanium'
