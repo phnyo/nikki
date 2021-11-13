@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://phnyo.github.io/nikki.io'
 languageCode = 'ja'
 title = 'DobuSarai / ドブサライ'
 theme = 'PaperMod'
