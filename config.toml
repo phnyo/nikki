@@ -1,15 +1,14 @@
 baseURL = 'http://phnyo.github.io/nikki'
 languageCode = 'ja'
-title = 'DobuSarai / ドブサライ'
+title = 'DobuSarai'
 theme = 'PaperMod'
 publishDir = 'docs/'
-canonifyurls　= true
 
 [params]
 author = 'sabanium'
   [params.homeInfoParams]
-  Title = 'Dobusarai / ドブサライ'
-  Content = "You won't find anything here, go home / こんな場所に何しに来たんだ 家に帰れ"
+  Title = 'Dobusarai'
+  Content = "いつも疲れている"
   [[params.socialIcons]]
   name = 'twitter'
   url = 'https://twitter.com/dobusarai_tarou'
