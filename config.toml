@@ -1,4 +1,4 @@
-baseURL = 'http://phnyo.github.io/nikki'
+baseURL = 'http://nikki.sabanium.me'
 languageCode = 'ja-JP'
 defaultContentLanguage = 'ja'
 title = 'NIKKI'
@@ -6,13 +6,15 @@ theme = 'PaperMod'
 publishDir = 'docs/'
 
 [params]
+ShowPostNavLinks = true
 author = 'sabanium'
-  [params.homeInfoParams]
-  Title = 'NIKKI'
-  Content = "いつも疲れている たすけて〜"
-  [[params.socialIcons]]
-  name = 'twitter'
-  url = 'https://twitter.com/dobusarai_tarou'
+[params.homeInfoParams]
+Title = 'NIKKI'
+Content = "いつも疲れている たすけて〜"
+[[params.socialIcons]]
+name = 'twitter'
+url = 'https://twitter.com/dobusarai_tarou'
+
   
 [menu]
 [[menu.main]]
