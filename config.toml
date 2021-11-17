@@ -1,5 +1,6 @@
 baseURL = 'http://phnyo.github.io/nikki'
-languageCode = 'ja'
+languageCode = 'ja-JP'
+defaultContentLanguage = 'ja'
 title = 'NIKKI'
 theme = 'PaperMod'
 publishDir = 'docs/'
