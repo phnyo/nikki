@@ -10,7 +10,7 @@ ShowPostNavLinks = true
 author = 'sabanium'
 [params.homeInfoParams]
 Title = 'NIKKI'
-Content = "いつもtwitterしかせず、常に疲れている 名前はくるりのアルバムから来ているけど、アンテナのほうが好き"
+Content = "名前はくるりのアルバムから来ているけど、アンテナのほうが好き"
 [[params.socialIcons]]
 name = 'twitter'
 url = 'https://twitter.com/dobusarai_tarou'
