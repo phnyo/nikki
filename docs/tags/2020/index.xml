@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2020 on NIKKI</title>
-    <link>http://phnyo.github.io/nikki/tags/2020/</link>
+    <link>http://nikki.sabanium.me/tags/2020/</link>
     <description>Recent content in 2020 on NIKKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 01 Dec 2020 22:13:25 +0900</lastBuildDate><atom:link href="http://phnyo.github.io/nikki/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 22:13:25 +0900</lastBuildDate><atom:link href="http://nikki.sabanium.me/tags/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20-12-01</title>
-      <link>http://phnyo.github.io/nikki/posts/nikki/20-12-01/</link>
+      <link>http://nikki.sabanium.me/posts/nikki/20-12-01/</link>
       <pubDate>Tue, 01 Dec 2020 22:13:25 +0900</pubDate>
       
-      <guid>http://phnyo.github.io/nikki/posts/nikki/20-12-01/</guid>
+      <guid>http://nikki.sabanium.me/posts/nikki/20-12-01/</guid>
       <description> なんかよくなってきた。状況はやばいが好転している気がする。 ぼやけていた輪郭がはっきりしてきた気がする。 何か簡単な目標をつくって継続することは大事かもしれない。 アルバイトをはじめて2週間が経った。iPhoneの内部構造を想像できるようになった。正直にいえば生成破壊のうちに目的はなく、いかに無我でiPhoneを組み立てられるかという技能のトレーニングである。宇宙飛行士のトレーニングであると思うとなんだか楽しくなってくるが、そのすぐあとに悲しくなる。やりきれなさよ&amp;hellip; 分解と組み立ての中に自己との対話を見出す度が始まった。いつまでやるのかはわからない。ランダムに発されたフレーズが脳内でエコーしている。今日は「内なる幽霊を殺せ」だった。フロイト的。 転部試験を受けることに決めた。多少は勉強したいと思っている。  </description>
     </item>
     
     <item>
       <title>20-11-06</title>
-      <link>http://phnyo.github.io/nikki/posts/nikki/20-11-06/</link>
+      <link>http://nikki.sabanium.me/posts/nikki/20-11-06/</link>
       <pubDate>Fri, 06 Nov 2020 22:13:10 +0900</pubDate>
       
-      <guid>http://phnyo.github.io/nikki/posts/nikki/20-11-06/</guid>
+      <guid>http://nikki.sabanium.me/posts/nikki/20-11-06/</guid>
       <description> 構造について。情報のノードとノードの連結の強さ。 シンプルさに帰結される。複雑さはノイズ。マクスウェル方程式は簡潔。 華麗な冗長化が文学か？ 短く、誤解すべくもない動き。エネルギーの最小化。  </description>
     </item>
     
     <item>
       <title>20-11-03</title>
-      <link>http://phnyo.github.io/nikki/posts/nikki/20-11-03/</link>
+      <link>http://nikki.sabanium.me/posts/nikki/20-11-03/</link>
       <pubDate>Tue, 03 Nov 2020 22:13:05 +0900</pubDate>
       
-      <guid>http://phnyo.github.io/nikki/posts/nikki/20-11-03/</guid>
+      <guid>http://nikki.sabanium.me/posts/nikki/20-11-03/</guid>
       <description>  久々にものを書く。何か変わったか？いいえ、何も。レポートは再提出になった。Nと会えたことはよかったが。
   暗い日々だったと思う。多少はましになってきた。家の中にずっといるのにアップダウンがある。ダウンサイドに備えねば、と思う。
   毎回Nと話す度に若干の落差がある。自分は彼女にすなわち情緒的というか文学的な、幻影的な存在を見ている。ロマンチスト的というか。幻影を再生産し続けていることはよいことではないが、出会いがないから仕様がないとも思う。童貞の言い訳か。安らぎにはなるかもしれないが、思想的な根拠とはなりえない子だ。あまりにも静的すぎると思う。私は苔むすために生きられるだろうか？
@@ -42,10 +42,10 @@
     
     <item>
       <title>20-10-13</title>
-      <link>http://phnyo.github.io/nikki/posts/nikki/20-10-13/</link>
+      <link>http://nikki.sabanium.me/posts/nikki/20-10-13/</link>
       <pubDate>Tue, 13 Oct 2020 22:12:58 +0900</pubDate>
       
-      <guid>http://phnyo.github.io/nikki/posts/nikki/20-10-13/</guid>
+      <guid>http://nikki.sabanium.me/posts/nikki/20-10-13/</guid>
       <description>  42のブラックホールをなんとか回避した。どこで乗り切れなくなるだろうか。来年あたりまでは残っていたいと思う。
   コードを書くことは楽しいが、人と競いたくないという感情もある。しかし、競技プログラミングをしないとプログラミングをすること自体はうまくならない。
   引き寄せの法則と、それに対して盲目的に従属することで、結果論として目標が達成できることを同列に語ることに違和感がある。すべては信じるという非科学的な観点の需要から始まり、科学的な道程の分析、目標に対する行動の遂行を為すことではじめて以上の法則が成るのではないか。
@@ -57,10 +57,10 @@
     
     <item>
       <title>20-10-04</title>
-      <link>http://phnyo.github.io/nikki/posts/nikki/20-10-04/</link>
+      <link>http://nikki.sabanium.me/posts/nikki/20-10-04/</link>
       <pubDate>Sun, 04 Oct 2020 22:12:51 +0900</pubDate>
       
-      <guid>http://phnyo.github.io/nikki/posts/nikki/20-10-04/</guid>
+      <guid>http://nikki.sabanium.me/posts/nikki/20-10-04/</guid>
       <description>  ここ最近は眠りが浅く夢を見る。昨日は台湾人のH（今facebookで調べたらそういう名前だった）とデートする夢を、今日は中学の同級生と殴り合いをする夢を見た。いずれも過去と相対することができてない自分の弱さからくるものか。
   とはいえ、過去の自分に完全な許しを与えるのはおかしい。そこには出来事を経験していないより未熟な自分がいて、その行動への後悔がこのような夢として発現しているのであれば、それは後悔すべき事柄だからだ。断じて若さや経験の少なさを理由に放免すべきではない。そして、それらを背負える胆力が欲しい。自己を責め続けることは苦しいが、罪咎を引きずり生きていくのが人生なのではないか。
   自分の苦しみは常に過去に、そして推論できる未来に向けられている。過去は悪い面を、未来は良い面を見せることで生のバランスが取れているといえよう。また、衝動的な過去からの解放の願いは、受動的な時間の流れの中で果たされていくだろう。シーシュポスのようなものだ。
@@ -72,10 +72,10 @@
     
     <item>
       <title>20-09-29</title>
-      <link>http://phnyo.github.io/nikki/posts/nikki/20-09-29/</link>
+      <link>http://nikki.sabanium.me/posts/nikki/20-09-29/</link>
       <pubDate>Tue, 29 Sep 2020 22:12:45 +0900</pubDate>
       
-      <guid>http://phnyo.github.io/nikki/posts/nikki/20-09-29/</guid>
+      <guid>http://nikki.sabanium.me/posts/nikki/20-09-29/</guid>
       <description>  トカイワインと鰹節が同じようにカビという媒体を通して変質させることで作られることを知る。いずれも水分を減らすことで内包されたうま味や糖分が凝縮されている。
   アブラムシが単為生殖と有性生殖の両方を行っていることを知る。しかも師管液から栄養を作り出すブフネラという細菌を菌細胞という特定の細胞の中で飼っている。おもしろ。ブフネラはもともと大腸菌。消化管に住んでいたものがやがて取り込まれた。進化の必要がないため、遺伝子の数が少ない。
   ドーパミンデトックスの動画を見た。自慰やSNSはドーパミンが出やすく、それに慣れることで他の行為が魅力的に見えなくなるそう。現在の自分もそうだと感じたのでtwitterとfacebookをやめた（twitterの過去データは保持した。過去の自分を知ることの価値があったから）。   久しぶりに過去の自分のツイートを見ると、苦しいときの人間の行動がわかる。繰り返される希死念慮と自虐には一種の虚しさが感じられる。苦しいときにはSNSを使うべきではないのかもしれない。誰も君を救わないし、幸福は向こうからやってこない。
