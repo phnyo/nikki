@@ -10,10 +10,10 @@ ShowPostNavLinks = true
 author = 'sabanium'
 [params.homeInfoParams]
 Title = 'NIKKI'
-Content = "くるりのアルバムではアンテナが一番好き。技術:"
+Content = "くるりのアルバムではアンテナが一番好き。"
 [[params.socialIcons]]
 name = 'twitter'
-url = 'https://twitter.com/nuta_unagi_dog'
+url = 'https://twitter.com/n3608e14011'
   
 [menu]
 [[menu.main]]
