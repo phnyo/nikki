@@ -6,11 +6,20 @@
     <description>Recent content in Tags on NIKKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 09 Feb 2022 15:18:06 +0900</lastBuildDate><atom:link href="http://nikki.sabanium.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Mar 2022 16:58:53 +0900</lastBuildDate><atom:link href="http://nikki.sabanium.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022</title>
+      <link>http://nikki.sabanium.me/tags/2022/</link>
+      <pubDate>Fri, 11 Mar 2022 16:58:53 +0900</pubDate>
+      
+      <guid>http://nikki.sabanium.me/tags/2022/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>nikki</title>
       <link>http://nikki.sabanium.me/tags/nikki/</link>
-      <pubDate>Wed, 09 Feb 2022 15:18:06 +0900</pubDate>
+      <pubDate>Fri, 11 Mar 2022 16:58:53 +0900</pubDate>
       
       <guid>http://nikki.sabanium.me/tags/nikki/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Sat, 29 Jan 2022 23:59:59 +0900</pubDate>
       
       <guid>http://nikki.sabanium.me/tags/zakki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2022</title>
-      <link>http://nikki.sabanium.me/tags/2022/</link>
-      <pubDate>Sat, 29 Jan 2022 22:41:44 +0900</pubDate>
-      
-      <guid>http://nikki.sabanium.me/tags/2022/</guid>
       <description></description>
     </item>
     
